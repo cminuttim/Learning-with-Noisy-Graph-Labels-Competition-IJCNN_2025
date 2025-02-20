@@ -1,0 +1,3 @@
+checkpoints/model_ABCD_cycle_1_epoch_780_loss_0.713_f1_0.756.pth
+checkpoints/model_ABCD_cycle_2_epoch_919_loss_0.697_f1_0.764.pth
+checkpoints/model_ABCD_cycle_3_epoch_999_loss_0.677_f1_0.772.pth

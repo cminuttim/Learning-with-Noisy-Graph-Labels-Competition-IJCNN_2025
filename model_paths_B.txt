@@ -1,0 +1,10 @@
+checkpoints/model_B_cycle_1_epoch_52_loss_1.342_f1_0.570.pth
+checkpoints/model_B_cycle_2_epoch_12_loss_1.280_f1_0.594.pth
+checkpoints/model_B_cycle_3_epoch_77_loss_1.394_f1_0.544.pth
+checkpoints/model_B_cycle_4_epoch_41_loss_1.280_f1_0.582.pth
+checkpoints/model_B_cycle_5_epoch_13_loss_1.284_f1_0.584.pth
+checkpoints/model_B_cycle_6_epoch_12_loss_1.326_f1_0.571.pth
+checkpoints/model_B_cycle_7_epoch_20_loss_1.323_f1_0.574.pth
+checkpoints/model_B_cycle_8_epoch_7_loss_1.301_f1_0.578.pth
+checkpoints/model_B_cycle_9_epoch_14_loss_1.284_f1_0.605.pth
+checkpoints/model_B_cycle_10_epoch_2_loss_1.275_f1_0.586.pth
