@@ -1,6 +1,6 @@
 # IJCNN 2025 Competition: Learning with Noisy Graph Labels
 
-This repository contains a solution for the challenge [IJCNN 2025 Competition: Learning with Noisy Graph Labels](https://sites.google.com/view/learning-with-noisy-graph-labe?usp=sharing). The approach leverages a **Variational Graph Autoencoder (VGAE)** to filter noisy data, a **ensemble of models** strategy to handle different types of noise, and a **weighted voting mechanism** to improve prediction accuracy.
+This repository contains the [winning solution](https://sites.google.com/view/learning-with-noisy-graph-labe/winners) of the challenge [IJCNN 2025 Competition: Learning with Noisy Graph Labels](https://sites.google.com/view/learning-with-noisy-graph-labe?usp=sharing). The approach leverages a **Variational Graph Autoencoder (VGAE)** to filter noisy data, a **ensemble of models** strategy to handle different types of noise, and a **weighted voting mechanism** to improve prediction accuracy.
 
 ---
 
